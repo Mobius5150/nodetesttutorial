@@ -4,7 +4,7 @@
   "description": "A tutorial for unit testing in NodeJS.",
   "main": "index.js",
   "scripts": {
-    "test": "test.js"
+    "test": "jasmine"
   },
   "author": "Michael Blouin",
   "license": "Apache-2.0",
