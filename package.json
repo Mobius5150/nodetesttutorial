@@ -1,0 +1,14 @@
+{
+  "name": "nodetesttutorial",
+  "version": "1.0.0",
+  "description": "A tutorial for unit testing in NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "Michael Blouin",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "jasmine": "^2.3.2"
+  }
+}
